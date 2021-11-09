@@ -46,4 +46,6 @@ private:
 
 };
 
+// komentar
+
 #endif  EVENT_H_
